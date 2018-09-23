@@ -8,6 +8,7 @@ public class Demo {
 		System.out.println("Magic");
 		System.out.println("Magic again");
 		System.out.println("Yeh Le Phir se Magic");
+		System.out.println("Ab Bore ho raha hai");
 	}
 
 }
